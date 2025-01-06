@@ -167,9 +167,9 @@ for scores in score:
 print()
 print("Del f")
 print("Antall tilbakemeldinger i hver kategori:")
-print(f"Antall negative: {negativt}")
-print(f"Antall nøytrale: {nøytralt}")
-print(f"Antall positive: {positivt}")
+print(f"Antall negative svar: {negativt}")
+print(f"Antall nøytrale svar: {nøytralt}")
+print(f"Antall positive svar: {positivt}")
 print()
 
 
